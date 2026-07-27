@@ -1,0 +1,8 @@
+C:\Users\mohan\source\repos\prac2\prac2\bin\Debug\prac2.exe.config
+C:\Users\mohan\source\repos\prac2\prac2\bin\Debug\prac2.exe
+C:\Users\mohan\source\repos\prac2\prac2\bin\Debug\prac2.pdb
+C:\Users\mohan\source\repos\prac2\prac2\obj\Debug\prac2.csproj.AssemblyReference.cache
+C:\Users\mohan\source\repos\prac2\prac2\obj\Debug\prac2.csproj.CoreCompileInputs.cache
+C:\Users\mohan\source\repos\prac2\prac2\obj\Debug\prac2.exe
+C:\Users\mohan\source\repos\prac2\prac2\obj\Debug\prac2.pdb
+C:\Users\mohan\source\repos\prac2\prac2\obj\Debug\prac2.exe.config
