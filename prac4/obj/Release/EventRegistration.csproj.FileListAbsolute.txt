@@ -1,0 +1,2 @@
+D:\EventRegistration\EventRegistration\obj\Release\EventRegistration.csproj.AssemblyReference.cache
+D:\EventRegistration\EventRegistration\obj\Release\EventRegistration.csproj.CoreCompileInputs.cache
